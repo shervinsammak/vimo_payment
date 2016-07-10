@@ -1,6 +1,6 @@
 Insight Data Challenge Code Submission
 
-Hi I am Shervin Sammak graduate student in Computational modeling and simulation at the University of Pittsburgh.
+Hi, I am Shervin Sammak graduate student in Computational modeling and simulation at the University of Pittsburgh.
 
 The challenge is about to use venmo payments to build a graph of users and calculate the median degree of a vertex in a graph. I have implemented the project in Python 3.5.1. Before executing the project, kindly check i you have the following installed in your system.
 
