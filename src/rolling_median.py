@@ -114,7 +114,7 @@ def writeOutput(data, f):
 def process():
     '''
     Method for processing payment records with moving window of 1 minute.
-    simulates real time straming by reading records one by one using python
+    simulates real time streaming by reading records one by one using python
     generator object to read lines from file.
     '''
     ### Initialize Graph
@@ -122,7 +122,7 @@ def process():
     ### Initialize activeNodes at current time
     activeRecords = []
     ### Initialize max_ts older date..
-    max_ts = dateutil.parser.parse('1970-01-01T23:23:12Z')
+    max_ts = dateutil.parser.parse('1989-07-10T13:20:02Z')
     ### Process payment records....
     if len(sys.argv) == 0:
         print('Specify input and output arguments')    
