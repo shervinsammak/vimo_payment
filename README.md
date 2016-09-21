@@ -8,6 +8,7 @@ The challenge is about to use venmo payments to build a graph of users and calcu
 2. sys
 3. datetime
 4. dateutil.parser
+5. pip
 
 If any of the library is not presented please install them using 'pip'.
 
